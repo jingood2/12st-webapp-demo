@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da9770b1-b1de-4c3d-addb-f46875f1affa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="webapp-demo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Kim Jinyoung &lt;jingood2@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="KEEP" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/.sdkman/candidates/maven/current" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_INTERNAL" />
+  </component>
+  <component name="ProjectId" id="1Xg0BPs8BQh9zvVAwh2M74ur6P8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TF_FMT" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebappDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="webapp-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.st.webappdemo.WebappDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da9770b1-b1de-4c3d-addb-f46875f1affa" name="Default Changelist" comment="" />
+      <created>1581452293231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581452293231</updated>
+      <workItem from="1581452296528" duration="1366000" />
+      <workItem from="1581453735131" duration="803000" />
+      <workItem from="1581454542796" duration="151000" />
+    </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1581453488254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581453488254</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add gitignore">
+      <created>1581454045422</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581454045422</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <MESSAGE value="Add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add gitignore" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="311" y="119" key="CommitChangelistDialog2" timestamp="1581454901526">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="311" y="119" key="CommitChangelistDialog2/0.23.2048.1129@0.23.2048.1129" timestamp="1581454901526" />
+    <state x="128" y="123" width="1200" height="787" key="DiffContextDialog" timestamp="1581454209270">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="128" y="123" width="1200" height="787" key="DiffContextDialog/0.23.2048.1129@0.23.2048.1129" timestamp="1581454209269" />
+    <state width="1358" height="259" key="GridCell.Tab.0.bottom" timestamp="1581453595471">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="1358" height="259" key="GridCell.Tab.0.bottom/0.23.2048.1129@0.23.2048.1129" timestamp="1581453595471" />
+    <state width="1358" height="259" key="GridCell.Tab.0.center" timestamp="1581453595470">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="1358" height="259" key="GridCell.Tab.0.center/0.23.2048.1129@0.23.2048.1129" timestamp="1581453595470" />
+    <state width="1358" height="259" key="GridCell.Tab.0.left" timestamp="1581453595470">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="1358" height="259" key="GridCell.Tab.0.left/0.23.2048.1129@0.23.2048.1129" timestamp="1581453595470" />
+    <state width="1358" height="259" key="GridCell.Tab.0.right" timestamp="1581453595471">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="1358" height="259" key="GridCell.Tab.0.right/0.23.2048.1129@0.23.2048.1129" timestamp="1581453595471" />
+    <state width="1358" height="259" key="GridCell.Tab.1.bottom" timestamp="1581453183822">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="1358" height="259" key="GridCell.Tab.1.bottom/0.23.2048.1129@0.23.2048.1129" timestamp="1581453183822" />
+    <state width="1358" height="259" key="GridCell.Tab.1.center" timestamp="1581453183821">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="1358" height="259" key="GridCell.Tab.1.center/0.23.2048.1129@0.23.2048.1129" timestamp="1581453183821" />
+    <state width="1358" height="259" key="GridCell.Tab.1.left" timestamp="1581453183821">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="1358" height="259" key="GridCell.Tab.1.left/0.23.2048.1129@0.23.2048.1129" timestamp="1581453183821" />
+    <state width="1358" height="259" key="GridCell.Tab.1.right" timestamp="1581453183822">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="1358" height="259" key="GridCell.Tab.1.right/0.23.2048.1129@0.23.2048.1129" timestamp="1581453183822" />
+    <state x="229" y="155" key="SettingsEditor" timestamp="1581454692882">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="229" y="155" key="SettingsEditor/0.23.2048.1129@0.23.2048.1129" timestamp="1581454692882" />
+    <state x="328" y="256" key="Vcs.Push.Dialog.v2" timestamp="1581454385560">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="328" y="256" key="Vcs.Push.Dialog.v2/0.23.2048.1129@0.23.2048.1129" timestamp="1581454385560" />
+    <state x="377" y="257" key="VcsDiffUtil.ChangesDialog" timestamp="1581454229261">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="377" y="257" key="VcsDiffUtil.ChangesDialog/0.23.2048.1129@0.23.2048.1129" timestamp="1581454229261" />
+    <state x="128" y="123" width="1200" height="787" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581454116379">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="128" y="123" width="1200" height="787" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.2048.1129@0.23.2048.1129" timestamp="1581454116379" />
+    <state x="128" y="123" width="1200" height="787" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1581454116380">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="128" y="123" width="1200" height="787" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.23.2048.1129@0.23.2048.1129" timestamp="1581454116380" />
+    <state x="405" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1581454709083">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="405" y="349" key="com.intellij.ide.util.TipDialog/0.23.2048.1129@0.23.2048.1129" timestamp="1581454709083" />
+    <state x="511" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581454311830">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="511" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.2048.1129@0.23.2048.1129" timestamp="1581454311830" />
+    <state x="501" y="418" key="git4idea.ui.GitResetDialog" timestamp="1581454165730">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="501" y="418" key="git4idea.ui.GitResetDialog/0.23.2048.1129@0.23.2048.1129" timestamp="1581454165730" />
+  </component>
+</project>
